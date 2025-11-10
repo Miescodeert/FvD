@@ -39,12 +39,12 @@ https://www.bagelsbeans.nl/menukaart/?gad_source=1&gad_campaignid=9980877481&gbr
 #### Screenshot(s) van de eerste pagina (small screen):
 
 hier de naam van de pagina  
- <img src="readme-images/home_pagina.png" width="375px" alt="home pagina Bagels & Beans">
+ <img src="readme-images/home_pagina.JPG" width="375px" alt="home pagina Bagels & Beans">
 
 #### Screenshot(s) van de tweede pagina (small screen):
 
 hier de naam van de pagina  
- <img src="readme-images/blog_pagina.png" width="375px" alt="oBlog pagina Bagels & Beans">
+ <img src="readme-images/blog_pagina.JPG" width="375px" alt="oBlog pagina Bagels & Beans">
 
 </details>
 
